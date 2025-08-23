@@ -28,7 +28,7 @@ bacteria_db = {
     "Proteus": {
         "indole": "-ve",
         "mr": "+ve",
-        "vp": "-ve",  # مصحح من الجدول الأصلي
+        "vp": "-ve",  
         "citrate": "+ve",
         "urease": "+ve",
         "h2s": "+ve",
@@ -42,7 +42,7 @@ bacteria_db = {
         "indole": "-ve",
         "mr": "+ve",
         "vp": "-ve",
-        "citrate": "-ve",  # مصحح
+        "citrate": "-ve", 
         "urease": "-ve",
         "h2s": "+ve",
         "lactose": "-ve",
@@ -80,7 +80,7 @@ bacteria_db = {
     "Citrobacter": {
         "indole": "-ve",
         "mr": "+ve",
-        "vp": "-ve",  # مصحح
+        "vp": "-ve",  
         "citrate": "+ve",
         "urease": "variable",
         "h2s": "+ve",
@@ -132,9 +132,9 @@ bacteria_db = {
     "Providencia": {
         "indole": "+ve",
         "mr": "+ve",
-        "vp": "-ve",  # مصحح
+        "vp": "-ve",  
         "citrate": "+ve",
-        "urease": "-ve",  # مصحح
+        "urease": "-ve",  
         "h2s": "-ve",
         "lactose": "-ve",
         "motility": "+ve",
